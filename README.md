@@ -15,9 +15,15 @@ The dataset is formated in JSON and can be found [here](https://www.reddit.com/r
 # Table of Contents
 
 1.- Jeopardy. Introduction to the Data.
+
 2.- Libraries.
+
 3.- Importing Data and Normalizing Data.
+
 4.- Normalizing Numeric Values.
+
 5.- Questions.
+
 6.- Low Value Vs High Value Questions.
+
 7.- Applying the Chi-Squared Test.
